@@ -17,6 +17,7 @@ ro.superior.version                     u:object_r:custom_version_prop:s0
 ro.superior.display.version             u:object_r:custom_version_prop:s0
 ro.superior.build.version               u:object_r:custom_version_prop:s0
 ro.superior.releasetype                 u:object_r:custom_version_prop:s0
+ro.superior.device                      u:object_r:custom_version_prop:s0
 
 # NFC
 persist.vendor.nfc.config_file_name    u:object_r:vendor_persist_nfc_prop:s0 exact string
